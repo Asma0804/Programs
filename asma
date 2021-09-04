@@ -1,0 +1,11 @@
+using Systen;
+Namespace program
+{
+class pro
+{
+public static void main(String args[])
+{
+Console.WriteLine("hello");
+}
+}
+}
